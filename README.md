@@ -1,2 +1,2 @@
-# Scoreboards
-- Learn how to create a scoreboard
+# Forms
+- Learn how to create a forms
