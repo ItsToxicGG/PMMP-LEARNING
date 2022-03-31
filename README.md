@@ -1,2 +1,2 @@
-# InvMenu
-- Learn how to create a custom chest with a virion (like when you on bedwars you click on the villager it takes you to a chest)
+# Introduction to MySQL
+- Learn how to create a code with mysql (you can learn how to make a database and stuff by searching on youtube or something)
