@@ -1,2 +1,2 @@
-# Introduction to Virions
-- Lesson 7 is currently not here...
+# Scoreboards
+- Learn how to create a scoreboard
