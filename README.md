@@ -1,3 +1,8 @@
+# Branches
+12 branches will be done in this github
+telling you alot about pocketmine plugins
+(including adding scoreboards, bossbars, forms and invmenu)
+so be ready for all of this!
 # INTRODUCTION (what is a pocketmine plugin)
 A plugin is an external module which can be added to your server to add custom features, change default behaviours and more. PocketMine-MP supports plugins to customize and/or modify PocketMine-MP servers for better experience and customization. Plugins allows server owners to achieve certain tasks or behaviors in their servers that are not officially implemented in PocketMine-MP. There are many interesting and useful plugins that already exists, such as world editing, automatic restarts, and economy system.
 # Plugin.yml
