@@ -21,7 +21,7 @@ It should contain the minimum API minor and patch version for every major API ve
 api: [4.0.0]
 ```
 - mcpe-protocol: This is the minecraft version/protocol supported for the plugin to work (it would get an error if a certain protocol is not supported!)
-```ym;
+```yml
 mcpe-protocol:
 - 486
 - 471
